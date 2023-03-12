@@ -1,0 +1,14 @@
+
+h2[title="header1"]{
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+p[title="paragraf1"]{
+    color: #696969;
+    text-align: center;
+}
+
+a[target="_blank"]{color: darkolivegreen;}
+
+input[type="text"]{background-color: aqua;}
